@@ -18,6 +18,7 @@
 - [50X50,785nm](test2/record.md)
 - [60X60](60/record.md)
 - [70X70](70/record.md)
+- [80X80](80/record.md)
 - [90X90](90/record.md)
 
 ### Analysis
